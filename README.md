@@ -11,8 +11,8 @@ Application housing calculators to assist in the identification of electrical co
 
 ## Screenshots
 
-![Landing screen after opening the application.](https://github.com/MilkeZa/component-calculator/tree/master/Assets/Art/Screenshots/landingScreen.png)
+![Landing screen after opening the application.](https://github.com/MilkeZa/component-calculator/blob/master/Assets/Art/Screenshots/landingScreen.png?raw=true)
 
-![Four band resistor calculation result example](https://github.com/MilkeZa/component-calculator/tree/master/Assets/Art/Screenshots/resistorResultEx1.png)
+![Four band resistor calculation result example](https://github.com/MilkeZa/component-calculator/blob/master/Assets/Art/Screenshots/resistorResultEx1.png?raw=true)
 
-![Six band resistor calculation result example](https://github.com/MilkeZa/component-calculator/tree/master/Assets/Art/Screenshots/resistorResultEx2.png)
+![Six band resistor calculation result example](https://github.com/MilkeZa/component-calculator/blob/master/Assets/Art/Screenshots/resistorResultEx2.png?raw=true)
